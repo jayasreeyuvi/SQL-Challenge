@@ -21,7 +21,6 @@ const table = require("console.table");
     //  prompt();
 //  });
 
-//  const queryAsync = util.promisify(connection.query).bind(connection);
 
  async function prompt(){
     const answer = inquirer
